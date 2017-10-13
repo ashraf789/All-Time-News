@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" ><b>All Time News</b></string>
+    <style name="no_action_bar" parent="android:style/Theme.Holo.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+</resources>
